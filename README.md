@@ -22,7 +22,7 @@ A repo to start the Pythonic journey.........
 
 <https://learn.microsoft.com/en-us/training/modules/intro-to-python/>
 
-### learnpython org
+### learnpython.org
 
 <https://www.learnpython.org/>
 
@@ -34,6 +34,12 @@ A repo to start the Pythonic journey.........
 
 1. [Task 101](TASK101.md)
 1. [Task 201](TASK201.md)
+
+## Specific Topic
+
+### Lists & Tuples | realpython.org
+
+<https://realpython.com/python-lists-tuples/>
 
 ## Supplementary
 
