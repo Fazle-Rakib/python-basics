@@ -30,6 +30,10 @@ A repo to start the Pythonic journey.........
 
 <https://www.w3schools.com/python/python_strings.asp>
 
+## Exercise
+
+<https://github.com/Asabeneh/30-Days-Of-Python/tree/master>
+
 ## Tasks
 
 1. [Task 101](TASK101.md)
