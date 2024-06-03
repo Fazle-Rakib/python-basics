@@ -32,6 +32,12 @@ A repo to start the Pythonic journey.........
 
 ## Exercise
 
+### Hacerrank
+
+<https://www.hackerrank.com/domains/python?badge_type=python>
+
+### 30 days coding challenge
+
 <https://github.com/Asabeneh/30-Days-Of-Python/tree/master>
 
 ## Tasks
